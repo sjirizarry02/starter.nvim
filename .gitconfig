@@ -1,9 +1,0 @@
-[user]
-	email = sjirizarry02@git.local
-	name = Sam
-[ai]
-	addressfamily = 4
-[http]
-	postBuffer = 524288000
-	lowSpeedLimit = 0
-	lowSpeedTime = 999999
